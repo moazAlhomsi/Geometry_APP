@@ -1,7 +1,6 @@
 import streamlit as st
 
-st.set_page_config(page_title ="Squares and Triangles",
-                    page_icon="📐")
+st.set_page_config(page_title ="Squares and Triangles")
 
 if __name__ == "__main__":
     class triangle:
